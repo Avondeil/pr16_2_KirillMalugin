@@ -1,0 +1,10 @@
+C:\Users\305-3\Desktop\Kirill Malugin\Prakt16_zad4\bin\Debug\Prakt16_zad4.exe.config
+C:\Users\305-3\Desktop\Kirill Malugin\Prakt16_zad4\bin\Debug\Prakt16_zad4.exe
+C:\Users\305-3\Desktop\Kirill Malugin\Prakt16_zad4\bin\Debug\Prakt16_zad4.pdb
+C:\Users\305-3\Desktop\Kirill Malugin\Prakt16_zad4\obj\Debug\Prakt16_zad4.csproj.AssemblyReference.cache
+C:\Users\305-3\Desktop\Kirill Malugin\Prakt16_zad4\obj\Debug\Prakt16_zad4.Form1.resources
+C:\Users\305-3\Desktop\Kirill Malugin\Prakt16_zad4\obj\Debug\Prakt16_zad4.Properties.Resources.resources
+C:\Users\305-3\Desktop\Kirill Malugin\Prakt16_zad4\obj\Debug\Prakt16_zad4.csproj.GenerateResource.cache
+C:\Users\305-3\Desktop\Kirill Malugin\Prakt16_zad4\obj\Debug\Prakt16_zad4.csproj.CoreCompileInputs.cache
+C:\Users\305-3\Desktop\Kirill Malugin\Prakt16_zad4\obj\Debug\Prakt16_zad4.exe
+C:\Users\305-3\Desktop\Kirill Malugin\Prakt16_zad4\obj\Debug\Prakt16_zad4.pdb
