@@ -1,0 +1,7 @@
+C:\Users\305-3\Desktop\Kirill Malugin\Prakt16_zad3\bin\Debug\Prakt16_zad3.exe.config
+C:\Users\305-3\Desktop\Kirill Malugin\Prakt16_zad3\bin\Debug\Prakt16_zad3.exe
+C:\Users\305-3\Desktop\Kirill Malugin\Prakt16_zad3\bin\Debug\Prakt16_zad3.pdb
+C:\Users\305-3\Desktop\Kirill Malugin\Prakt16_zad3\obj\Debug\Prakt16_zad3.csproj.AssemblyReference.cache
+C:\Users\305-3\Desktop\Kirill Malugin\Prakt16_zad3\obj\Debug\Prakt16_zad3.csproj.CoreCompileInputs.cache
+C:\Users\305-3\Desktop\Kirill Malugin\Prakt16_zad3\obj\Debug\Prakt16_zad3.exe
+C:\Users\305-3\Desktop\Kirill Malugin\Prakt16_zad3\obj\Debug\Prakt16_zad3.pdb
